@@ -1,6 +1,8 @@
 # Problems solutions
 Sometimes, I like to solve problems from competition programming. I will save some solutions here...
 
+[**LeetCode**] [4. Median of Two Sorted Arrays](/LeetCode/1-500/4.%20Median%20of%20Two%20Sorted%20Arrays.md) 
+
 [**LeetCode**] [3. Longest Substring Without Repeating Characters](/LeetCode/1-500/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md) 
 
 [**LeetCode**] [2. Add Two Numbers](/LeetCode/1-500/2.%20Add%20Two%20Numbers.md) 
