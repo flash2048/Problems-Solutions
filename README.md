@@ -1,6 +1,8 @@
 # Problems solutions
 Sometimes, I like to solve problems from competition programming. I will save some solutions here...
 
+[**LeetCode**] [1. Two Sum](/Two%20Sum.md) 
+
 [**LeetCode**] [1759. Count Number of Homogenous Substrings](/Count%20Number%20of%20Homogenous%20Substrings.md) 
 
 [**LeetCode**] [394. Decode String](/Decode%20String.md) 
