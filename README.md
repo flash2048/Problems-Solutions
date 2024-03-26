@@ -1,6 +1,8 @@
 # Problems solutions
 Sometimes, I like to solve problems from competition programming. I will save some solutions here...
 
+[**LeetCode**] [3. Longest Substring Without Repeating Characters](/LeetCode/1-500/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md) 
+
 [**LeetCode**] [2. Add Two Numbers](/LeetCode/1-500/2.%20Add%20Two%20Numbers.md) 
 
 [**LeetCode**] [1. Two Sum](/LeetCode/1-500/1.%20Two%20Sum.md) 
