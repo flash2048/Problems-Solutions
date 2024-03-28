@@ -1,6 +1,8 @@
 # Problems solutions
 Sometimes, I like to solve problems from competition programming. I will save some solutions here...
 
+[**LeetCode**] [2958. Length of Longest Subarray With at Most K Frequency](/LeetCode/2501-3000/2958.%20Length%20of%20Longest%20Subarray%20With%20at%20Most%20K%20Frequency.md) 
+
 [**LeetCode**] [6. Zigzag Conversion](/LeetCode/1-500/6.%20Zigzag%20Conversion.md) 
 
 [**LeetCode**] [4. Median of Two Sorted Arrays](/LeetCode/1-500/4.%20Median%20of%20Two%20Sorted%20Arrays.md) 
