@@ -1,6 +1,12 @@
 # Problems solutions
 Sometimes, I like to solve problems from competition programming. I will save some solutions here...
 
+[**LeetCode**] [1249. Minimum Remove to Make Valid Parentheses](/LeetCode/1001-1500/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.md) 
+
+[**LeetCode**] [1614. Maximum Nesting Depth of the Parentheses](/LeetCode/1501-2000/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses.md) 
+
+[**LeetCode**] [1221. Split a String in Balanced Strings](/LeetCode/1001-1500/1221.%20Split%20a%20String%20in%20Balanced%20Strings.md) 
+
 [**LeetCode**] [2958. Length of Longest Subarray With at Most K Frequency](/LeetCode/2501-3000/2958.%20Length%20of%20Longest%20Subarray%20With%20at%20Most%20K%20Frequency.md) 
 
 [**LeetCode**] [6. Zigzag Conversion](/LeetCode/1-500/6.%20Zigzag%20Conversion.md) 
