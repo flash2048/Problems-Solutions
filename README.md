@@ -1,6 +1,10 @@
 # Problems solutions
 Sometimes, I like to solve problems from competition programming. I will save some solutions here...
 
+[**LeetCode**] [917. Reverse Only Letters](/LeetCode/501-1000/917.%20Reverse%20Only%20Letters.md)
+
+[**LeetCode**] [463. Island Perimeter](/LeetCode/1-500/463.%20Island%20Perimeter.md)
+
 [**LeetCode**] [1700. Number of Students Unable to Eat Lunch](/LeetCode/1501-2000/1700.%20Number%20of%20Students%20Unable%20to%20Eat%20Lunch.md) 
 
 [**LeetCode**] [1249. Minimum Remove to Make Valid Parentheses](/LeetCode/1001-1500/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.md) 
