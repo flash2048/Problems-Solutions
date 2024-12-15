@@ -1,6 +1,8 @@
 # Problems solutions
 Sometimes, I like to solve problems from competition programming. I will save some solutions here...
 
+[**LeetCode**] [1974. Minimum Time to Type Word Using Special Typewriter](/LeetCode/1501-2000/1974.%20Minimum%20Time%20to%20Type%20Word%20Using%20Special%20Typewriter.md)
+
 [**LeetCode**] [2816. Double a Number Represented as a Linked List](/LeetCode/2501-3000/2816.%20Double%20a%20Number%20Represented%20as%20a%20Linked%20List.md)
 
 [**LeetCode**] [917. Reverse Only Letters](/LeetCode/501-1000/917.%20Reverse%20Only%20Letters.md)
